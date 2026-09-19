@@ -50,9 +50,9 @@ Below is a detailed comparison of top commercial medical practice management pla
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore popular open-source electronic health records, practice management frameworks, and interoperability engines. Entries are sorted in **descending order by GitHub star count** 🌟.
+Explore popular open-source electronic health records, practice management frameworks, and interoperability engines. Entries are sorted in **descending order by GitHub Stars_Count** 🌟.
 
-| Open-Source Project | 🌟 GitHub Stars | 📖 Description & Technical Overview |
+| Open-Source Project | 🌟 GitHub_Stars | 📖 Description & Technical Overview |
 | :--- | :--- | :--- |
 | **[ERPNext Healthcare](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full-featured healthcare module within ERPNext covering patient registrations, clinical appointments, inpatient admissions, laboratory management, and clinic billing. |
 | **[HospitalRun](https://github.com/hospitalrun/hospitalrun-frontend)** | [![Stars](https://img.shields.io/github/stars/hospitalrun/hospitalrun-frontend?style=social&color=white)](https://github.com/hospitalrun/hospitalrun-frontend/stargazers) | Modern open-source offline-first electronic health records and hospital management system built for developing world clinics and rural healthcare providers. |
